@@ -1,7 +1,7 @@
 {
     "name": "pacs/solution",
     "description": "PACS(Picture Archiving and Communication System). It’s one of medical imaging technology that transforms the conventional paper workflow of radiology images and reports into a paperless workflow..",
-    "homepage": "https://smart-drogaria-saude.com.br",
+    "homepage": "https://project-laravel.com.br",
     "keywords": [
         "laravel",
         "pacs",

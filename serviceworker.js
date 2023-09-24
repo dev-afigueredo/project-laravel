@@ -1,13 +1,13 @@
 var staticCacheName = "pwa-v" + new Date().getTime();
 var filesToCache = [
-    'public/img/icons/smart-drogaria-saude-72x72.png',
-    'public/img/icons/smart-drogaria-saude-96x96.png',
-    'public/img/icons/smart-drogaria-saude-128x128.png',
-    'public/img/icons/smart-drogaria-saude-144x144.png',
-    'public/img/icons/smart-drogaria-saude-152x152.png',
-    'public/img/icons/smart-drogaria-saude-192x192.png',
-    'public/img/icons/smart-drogaria-saude-384x384.png',
-    'public/img/icons/smart-drogaria-saude-512x512.png'
+    'public/img/icons/project-laravel-72x72.png',
+    'public/img/icons/project-laravel-96x96.png',
+    'public/img/icons/project-laravel-128x128.png',
+    'public/img/icons/project-laravel-144x144.png',
+    'public/img/icons/project-laravel-152x152.png',
+    'public/img/icons/project-laravel-192x192.png',
+    'public/img/icons/project-laravel-384x384.png',
+    'public/img/icons/project-laravel-512x512.png'
 ];
 
 /*

@@ -2,10 +2,10 @@
 <?php
 
 /**
- * @package     SmartDrogariaSaude
- * @copyright   2023 SmartDrogariaSaude. All rights reserved.
+ * @package     ProjectLaravel
+ * @copyright   2023 ProjectLaravel. All rights reserved.
  * @license     GNU GPL version 3; see LICENSE.txt
- * @link        https://smart-drogaria-saude.com
+ * @link        https://project-laravel.com
  */
 
 // Register the auto-loader

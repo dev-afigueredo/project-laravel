@@ -76,9 +76,9 @@ class Versions
         $versions = [];
 
         // Check core first
-        $url = 'core/version/' . $info['SmartDrogariaSaude'] . '/' . $info['php'] . '/' . $info['mysql'] . '/' . $info['companies'];
+        $url = 'core/version/' . $info['ProjectLaravel'] . '/' . $info['php'] . '/' . $info['mysql'] . '/' . $info['companies'];
 
-        $versions['core'] = static::getLatestVersion($url, $info['SmartDrogariaSaude']);
+        $versions['core'] = static::getLatestVersion($url, $info['ProjectLaravel']);
 
         $modules = Arr::wrap($modules);
 
@@ -95,7 +95,7 @@ class Versions
             $alias = $module->get('alias');
             $version = $module->get('version');
 
-            $url = 'apps/' . $alias . '/version/' . $version . '/' . $info['SmartDrogariaSaude'];
+            $url = 'apps/' . $alias . '/version/' . $version . '/' . $info['ProjectLaravel'];
 
             $versions[$alias] = static::getLatestVersion($url, $version);
         }

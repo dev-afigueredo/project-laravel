@@ -22,7 +22,7 @@ class Info
     public static function versions()
     {
         return [
-            'SmartDrogariaSaude' => version('short'),
+            'ProjectLaravel' => version('short'),
             'laravel' => app()->version(),
             'php' => static::phpVersion(),
             'mysql' => static::mysqlVersion(),

@@ -21,7 +21,7 @@ trait SiteApi
             'Authorization' => 'Basic ' . env('API_BASIC_AUTH'),
             'Accept'        => 'application/json',
             'Referer'       => app()->runningInConsole() ? config('app.url') : url('/'),
-            'SmartDrogariaSaude'  => version('short'),
+            'ProjectLaravel'  => version('short'),
             'Language'      => language()->getShortCode(),
             'Information'   => json_encode(Info::all()),
         ];

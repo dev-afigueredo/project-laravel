@@ -22,7 +22,7 @@ return [
         ],
     ],
 
-    'docs_link'             => 'https://smart-drogaria-saude.com/docs',
-    'support_link'          => 'https://smart-drogaria-saude.com/support',
+    'docs_link'             => 'https://project-laravel.com/docs',
+    'support_link'          => 'https://project-laravel.com/support',
 
 ];

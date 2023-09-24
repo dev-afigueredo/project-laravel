@@ -1,9 +1,9 @@
 <?php
 
 /**
- * @package     SmartDrogariaSaude
- * @copyright   2023 SmartDrogariaSaude. All rights reserved.
- * @link        https://smart-drogaria-saude.com.br
+ * @package     ProjectLaravel
+ * @copyright   2023 ProjectLaravel. All rights reserved.
+ * @link        https://project-laravel.com.br
  */
 
 // Register the auto-loader

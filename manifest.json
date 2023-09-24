@@ -1,6 +1,6 @@
 {
-    "name": "SmartDrogariaSaude",
-    "short_name": "SmartDrogariaSaude",
+    "name": "ProjectLaravel",
+    "short_name": "ProjectLaravel",
     "start_url": ".?utm_source=pwa",
     "display": "standalone",
     "theme_color": "#FFFFFF",
